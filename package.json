@@ -1,0 +1,23 @@
+{
+  "name": "cypress_clean",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasm90/Cypress_Clean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasm90/Cypress_Clean/issues"
+  },
+  "homepage": "https://github.com/thomasm90/Cypress_Clean#readme",
+  "devDependencies": {
+    "cypress": "^8.4.1",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
